@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+我的名字是甄江杰，但是在网络上，我更喜欢你叫我 icymorn.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+自1999年接触电脑，在大学前一无所成。目前华工软件本科生，即将成为苦逼研究生。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+玩web前端，玩nao机器人，玩树莓派与leap motion。
+
+前msra实习生。
+
+Now 
+
+2015/03/30
