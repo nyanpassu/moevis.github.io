@@ -1,11 +1,27 @@
 # Site settings
 title: ICY MORN | 寒霜之晨
 email: moevery@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: 编程瞎搞
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://icymorn.github.io" # the base hostname & protocol for your site
 twitter_username: moevery
 github_username:  icymorn
 
-# Build settings
-markdown: kramdown
+links:
+  - name:         About
+    url:          /about
+  - name:         Blog
+    url:          /
+    external:     true
+  - name:         Email
+    url:          mailto:moevery@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/icymorn
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart

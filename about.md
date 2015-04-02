@@ -15,3 +15,4 @@ permalink: /about/
 Now 
 
 2015/03/30
+/Users/moe/document/git/icymorn.github.io/_config.yml
